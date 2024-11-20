@@ -369,7 +369,7 @@
 			<dependency>
 				<groupId>com.thoughtworks.xstream</groupId>
 				<artifactId>xstream</artifactId>
-				<version>1.4.11.1</version>
+				<version>1.4.21</version>
 			</dependency>
 			<dependency>
 				<groupId>javax.mail</groupId>
@@ -1056,7 +1056,7 @@
 		<openmrs.version.shortnumericonly>${parsedVersion.majorVersion}.${parsedVersion.minorVersion}.${parsedVersion.incrementalVersion}</openmrs.version.shortnumericonly>
 		<openmrs.version>${project.version}</openmrs.version>
 
-		<springVersion>4.1.4.RELEASE</springVersion>
+		<springVersion>6.1.14</springVersion>
 		<hibernateVersion>4.3.10.Final</hibernateVersion>
 		<customArgLineForTesting/>
 
