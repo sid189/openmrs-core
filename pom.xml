@@ -1056,7 +1056,7 @@
 		<openmrs.version.shortnumericonly>${parsedVersion.majorVersion}.${parsedVersion.minorVersion}.${parsedVersion.incrementalVersion}</openmrs.version.shortnumericonly>
 		<openmrs.version>${project.version}</openmrs.version>
 
-		<springVersion>4.1.4.RELEASE</springVersion>
+		<springVersion>6.0.0</springVersion>
 		<hibernateVersion>4.3.10.Final</hibernateVersion>
 		<customArgLineForTesting/>
 
