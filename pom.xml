@@ -164,7 +164,7 @@
 			<dependency>
 				<groupId>org.apache.commons</groupId>
 				<artifactId>commons-lang3</artifactId>
-				<version>3.9</version>
+				<version>3.18.0</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework</groupId>
@@ -428,7 +428,7 @@
 			<dependency>
 				<groupId>com.fasterxml.jackson.core</groupId>
 				<artifactId>jackson-core</artifactId>
-				<version>2.9.8</version>
+				<version>2.15.0</version>
 			</dependency>
 			<dependency>
 				<groupId>com.fasterxml.jackson.core</groupId>
@@ -438,7 +438,7 @@
 			<dependency>
 				<groupId>com.fasterxml.jackson.core</groupId>
 				<artifactId>jackson-databind</artifactId>
-				<version>2.9.10.1</version>
+				<version>2.15.0</version>
 			</dependency>
 			<dependency>
 				<groupId>org.azeckoski</groupId>
@@ -520,7 +520,7 @@
 			<dependency>
 			    <groupId>commons-validator</groupId>
 			    <artifactId>commons-validator</artifactId>
-			    <version>1.6</version>
+			    <version>1.10.0</version>
 			</dependency>
 			<dependency>
 				<groupId>org.aspectj</groupId>
